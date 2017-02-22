@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448940552 source:/home/rachy/Desktop/data_structures/hash_tables1/hash_tables1/started_code.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
